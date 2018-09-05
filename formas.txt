@@ -1,0 +1,21 @@
+1,cuadrilatero,rojo,no triangulo,rectangulo
+2,pentagono,blanco,no triangulo,no cuadrilatero
+3,hexagono,verde,no triangulo,no cuadrilatero
+4,circulo,azul,no triangulo,no cuadrilatero
+5,hexagono,blanco,no triangulo,no cuadrilatero
+6,pentagono,amarillo,no triangulo,no cuadrilatero
+7,cuadrilatero,azul,no triangulo,cuadrado
+8,circulo,rojo,no triangulo,no cuadrilatero
+9,triangulo,blanco,isosceles,no cuadrilatero
+10,cuadrilatero,verde,no triangulo,cuadrado
+11,hexagono,azul,no triangulo,no cuadrilatero
+12,pentagono,rojo,no triangulo,no cuadrilatero
+13,triangulo,amarillo,isosceles,no cuadrilatero
+14,cuadrilatero,blanco,no triangulo,cuadrado
+15,cuadrilatero,rojo,no triangulo,cuadrado
+16,triangulo,rojo,isosceles,no cuadrilatero
+17,circulo,blanco,no triangulo,no cuadrilatero
+18,circulo,cyan,no triangulo,no cuadrilatero
+19,pentagono,verde,no triangulo,no cuadrilatero
+20,pentagono,fucsia,no triangulo,no cuadrilatero
+21,cuadrilatero,azul,no triangulo,rectangulo

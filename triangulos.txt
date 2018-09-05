@@ -1,0 +1,11 @@
+1,triangulo,azul,isosceles,no cuadrilatero
+2,triangulo,rojo,equilatero,no cuadrilatero
+3,triangulo,azul,equilatero,no cuadrilatero
+4,triangulo,amarillo,escaleno,no cuadrilatero
+5,triangulo,fucsia,isosceles,no cuadrilatero
+6,triangulo,cyan,equilatero,no cuadrilatero
+7,triangulo,blanco,equilatero,no cuadrilatero
+8,triangulo,rojo,isosceles,no cuadrilatero
+9,triangulo,verde,escaleno,no cuadrilatero
+10,triangulo,amarillo,isosceles,no cuadrilatero
+11,triangulo,verde,isosceles,no cuadrilatero

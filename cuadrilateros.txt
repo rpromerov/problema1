@@ -1,0 +1,13 @@
+1,no shape,rojo,no triangulo,no cuadrilatero
+2,cuadrilatero,azul,no triangulo,cuadrado
+3,cuadrilatero,fucsia,no triangulo,cuadrado
+4,cuadrilatero,verde,no triangulo,rombo
+5,cuadrilatero,verde,no triangulo,rectangulo
+6,cuadrilatero,blanco,no triangulo,rombo
+7,cuadrilatero,cyan,no triangulo,rombo
+8,octogono,rojo,no triangulo,no cuadrilatero
+9,cuadrilatero,rojo,no triangulo,cuadrado
+10,cuadrilatero,fucsia,no triangulo,cuadrado
+11,cuadrilatero,amarillo,no triangulo,rectangulo
+12,cuadrilatero,fucsia,no triangulo,rombo
+13,cuadrilatero,verde,no triangulo,cuadrado

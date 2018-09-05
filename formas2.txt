@@ -1,0 +1,17 @@
+1,triangulo,verde,isosceles,no cuadrilatero
+2,decagono,amarillo,no triangulo,no cuadrilatero
+3,circulo,azul,no triangulo,no cuadrilatero
+4,triangulo,rojo,isosceles,no cuadrilatero
+5,dodecagono,fucsia,no triangulo,no cuadrilatero
+6,circulo,azul,no triangulo,no cuadrilatero
+7,decagono,azul,no triangulo,no cuadrilatero
+8,decagono,blanco,no triangulo,no cuadrilatero
+9,triangulo,blanco,isosceles,no cuadrilatero
+10,triangulo,rojo,isosceles,no cuadrilatero
+11,triangulo,azul,isosceles,no cuadrilatero
+12,circulo,rojo,no triangulo,no cuadrilatero
+13,cuadrilatero,rojo,no triangulo,rectangulo
+14,circulo,cyan,no triangulo,no cuadrilatero
+15,cuadrilatero,azul,no triangulo,rectangulo
+16,circulo,blanco,no triangulo,no cuadrilatero
+17,cuadrilatero,rojo,no triangulo,romboide
